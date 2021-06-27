@@ -26,3 +26,13 @@ User clicks to read me button
 User should see send button
     Page Should Contain    Gönder
     Sleep    5
+
+User clicks to home page button
+    Click Element    ${HomePageButton}
+    Sleep    5
+    Page Should Contain    Profil Ziyaretleri
+
+User clicks to favourite button
+    Click Element    ${FavouriteButton}
+    Sleep    5
+    Page Should Contain    Hepsini Sil
