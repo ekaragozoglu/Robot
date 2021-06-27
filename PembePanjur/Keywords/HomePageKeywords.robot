@@ -37,6 +37,10 @@ User clicks to favourite button
     Sleep    5
     Page Should Contain    Hepsini Sil
 
+User should see update button
+    Sleep    5
+    Page Should Contain    GÜNCELLE
+
 User clicks to edit profile button
     Click Element    ${EditProfileButton}
     Sleep    5

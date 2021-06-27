@@ -35,4 +35,5 @@ Edit to profile
     User fills username textbox with "sinanulug@outlook.com"
     User fills password textbox with "Testotomasyon"
     User clicks login button
+    User should see update button
     User clicks to edit profile button
