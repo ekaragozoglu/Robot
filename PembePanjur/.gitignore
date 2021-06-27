@@ -1,0 +1,13 @@
+# ide specific stuff:
+.idea/**
+
+# Target
+.xml
+.html
+.log
+
+# IML file
+robotframework-TestFXLibrary.iml
+
+# PNG FILES
+*.png
