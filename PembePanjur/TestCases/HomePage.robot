@@ -29,3 +29,10 @@ View to home page
     User should see send button
     User clicks to home page button
     User clicks to favourite button
+
+Edit to profile
+    User goes to login page
+    User fills username textbox with "sinanulug@outlook.com"
+    User fills password textbox with "Testotomasyon"
+    User clicks login button
+    User clicks to edit profile button
