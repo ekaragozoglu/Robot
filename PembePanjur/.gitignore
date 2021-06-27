@@ -11,3 +11,9 @@ robotframework-TestFXLibrary.iml
 
 # PNG FILES
 *.png
+
+# ignore generated html files,
+*.html
+
+# ignore generated xml files,
+*.xml
